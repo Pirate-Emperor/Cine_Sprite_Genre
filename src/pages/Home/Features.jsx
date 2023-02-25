@@ -1,8 +1,4 @@
-/*
-Page: Features for the homepage
-This page sets filters before fetching.
-Created by Sunil Park
-*/
+
 
 import React from "react";
 import {

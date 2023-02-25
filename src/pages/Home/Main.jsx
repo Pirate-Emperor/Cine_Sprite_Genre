@@ -1,8 +1,4 @@
-/*
-Page: Main for the homepage
-This page collects all the materials to fetch a movie.
-Created by Sunil Park
-*/
+
 
 import React, { useState } from "react";
 import { StyledMain } from "../../components/styles/Page.styled";

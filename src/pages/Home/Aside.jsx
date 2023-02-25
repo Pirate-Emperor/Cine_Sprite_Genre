@@ -1,8 +1,4 @@
-/*
-Page: Aside for the homepage
-This page is where users can choose a genre.
-Created by Sunil Park
-*/
+
 
 import React from "react";
 import {

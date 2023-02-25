@@ -1,8 +1,3 @@
-/*
-Page: Home Page
-This page is the main homepage of the project and it displays the recommended movies by genres.
-Created by Sunil Park
-*/
 
 import React, { useState } from "react";
 import { StyledPage } from "../../components/styles/Page.styled";
