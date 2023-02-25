@@ -36,15 +36,15 @@ function App() {
         />
         <StyledContainer>
           <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route exact path="/search" element={<Search />}>
+            <Route exact path="/Cine_Sprite_Genre/" element={<Home />} />
+            <Route exact path="/Cine_Sprite_Genre/search" element={<Search />}>
               <Route path=":id" element={<Main />} />
             </Route>
             <Route path="/*" element={<ErrorPage />} />
-            <Route path="/info" element={<Info />} />
-            <Route path="/info1" element={<Info />} />
-            <Route path="/info2" element={<Info />} />
-            <Route path="/info3" element={<Info />} />
+            <Route path="/Cine_Sprite_Genre/info" element={<Info />} />
+            <Route path="/Cine_Sprite_Genre/info1" element={<Info />} />
+            <Route path="/Cine_Sprite_Genre/info2" element={<Info />} />
+            <Route path="/Cine_Sprite_Genre/info3" element={<Info />} />
           </Routes>
         </StyledContainer>
         <Footer />

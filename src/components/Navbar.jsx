@@ -2,7 +2,7 @@
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMoon, faMountainSun } from "@fortawesome/free-solid-svg-icons";
-import ReactRoundedImage from "react-rounded-image"
+
 
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
@@ -15,7 +15,7 @@ import {
 import logo from "../assets/main_logo.png";
 
 import Input from "./Input";
-
+const head = "/Cine_Sprite_Genre"
 const links = [
   {
     path: "/",
@@ -33,7 +33,7 @@ const links = [
     exect: "true",
   },
   {
-    path: "/info3",
+    path: "/search",
     label: "Search",
     exect: "true",
   },
@@ -71,7 +71,7 @@ const Navbar = ({ colorMode, setColorMode }) => {
               <li key={label}>
                 <NavLink
                   exact={exact}
-                  to={path}
+                  to={head+path}
                   className={({ isActive }) => (isActive ? "isActived" : "")}
                 >
                   {label}

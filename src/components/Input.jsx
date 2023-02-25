@@ -57,7 +57,7 @@ const Input = ({ searchpage }) => {
   // The searched title is sent as id.
   // The page that received the id performs a new fetch through the id.
   const submitTitle = (id) => {
-    navigate(`/search/${encodeURIComponent(id)}`);
+    navigate(`/Cine_Sprite_Genre/search/${encodeURIComponent(id)}`);
   };
 
   return (

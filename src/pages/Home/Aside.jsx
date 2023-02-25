@@ -12,7 +12,7 @@ const Aside = ({ genreID, setGenreID }) => {
   return (
     <StyledAside>
       <StyledAsideLogo>
-        <img src={logo} alt="CM_logo" />
+        <img src={logo} alt="Cine_Sprite" />
       </StyledAsideLogo>
       <h1>GENRES</h1>
       <h4>{request[genreID].genre}</h4>
