@@ -1,8 +1,4 @@
-/*
-Component: Content
-Get movie data through props and share all information about the movie with users.
-Created by Sunil Park
-*/
+
 
 import React, { useEffect } from "react";
 import {

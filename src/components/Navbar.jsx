@@ -1,8 +1,4 @@
-/*
-Page: Navbar
-This page allows users to use links to navigate pages, search movies and dark mode triggers
-Created by Sunil Park
-*/
+
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMoon, faMountainSun } from "@fortawesome/free-solid-svg-icons";

@@ -1,8 +1,4 @@
-/*
-Page: movieLists
-This page is where all fetched movies are displayed.
-Created by Sunil Park
-*/
+
 
 import React, { useEffect } from "react";
 import {

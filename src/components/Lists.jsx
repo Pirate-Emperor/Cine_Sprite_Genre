@@ -1,8 +1,4 @@
-/*
-Page: Lists
-This page fetches and manages the resulting value in an object.
-Created by Sunil Park
-*/
+
 
 import React, { useState, useEffect } from "react";
 import {

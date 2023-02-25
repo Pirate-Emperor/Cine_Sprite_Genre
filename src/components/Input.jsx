@@ -1,8 +1,4 @@
-/*
-Component: Input
-This component configures the styling and functionality of the input to search for movies.
-Created by Sunil Park
-*/
+
 
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";

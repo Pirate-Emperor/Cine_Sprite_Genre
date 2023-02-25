@@ -1,8 +1,4 @@
-/*
-Page: RecommendedMovie
-It recommends a movie by randomly selecting one of the filtered movies.
-Created by Sunil Park
-*/
+
 
 import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

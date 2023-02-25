@@ -1,7 +1,4 @@
-/*
-Component: Footer
-Created by Sunil Park
-*/
+
 
 import React from "react";
 import styled from "styled-components";

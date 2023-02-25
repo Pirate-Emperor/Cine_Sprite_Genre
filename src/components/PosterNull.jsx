@@ -1,8 +1,4 @@
-/*
-Page: PosterNull
-Movies without a poster show the logo instead of showing the poster.
-Created by Sunil Park
-*/
+
 
 import React from "react";
 import styled from "styled-components";

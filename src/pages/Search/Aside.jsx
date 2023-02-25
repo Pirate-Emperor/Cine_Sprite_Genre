@@ -1,8 +1,4 @@
-/*
-Page: Aside for Search Page
-This page is where users can see and pick a searched history.
-Created by Sunil Park
-*/
+
 
 import React, { useState, useEffect } from "react";
 import logo from "../../assets/main_logo.png";

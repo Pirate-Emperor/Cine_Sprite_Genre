@@ -1,8 +1,4 @@
-/*
-Page: PopupBackground
-A component that prevents scrolling and changes the background to dark.
-Created by Sunil Park
-*/
+
 
 import React from "react";
 import styled from "styled-components";

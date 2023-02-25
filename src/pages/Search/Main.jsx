@@ -1,8 +1,4 @@
-/*
-Page: Main for the Search
-This page collects all the materials to fetch a movie.
-Created by Sunil Park
-*/
+
 
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";

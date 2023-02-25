@@ -1,8 +1,4 @@
-/*
-Component: Loading
-Show a loading animation while waiting for a fetch.
-Created by Sunil Park
-*/
+
 
 import React from "react";
 import logo from "../assets/main_logo.png";
