@@ -13,7 +13,7 @@ const Loading = () => {
   return (
     <StyledLoading>
       <StyledLoadingContent>
-        <img src={logo} alt="CN_logo" />
+        <img src={logo} alt="Cine_Sprite" />
         <StyledLoadingCircle />
         <StyledLoadingCircle />
         <StyledLoadingCircle />

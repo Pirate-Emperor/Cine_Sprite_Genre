@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 
-const movieListAni1 = keyframes`
+export const movieListAni1 = keyframes`
 0% {
     transform: translateY(0);
     // z-index: 99;
@@ -20,7 +20,7 @@ const movieListAni1 = keyframes`
 }
 `;
 
-const movieListAni2 = keyframes`
+export const movieListAni2 = keyframes`
   25% {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
@@ -30,14 +30,14 @@ const movieListAni2 = keyframes`
     transform: scale(0.9);
   }
 `;
-const movieListAni3 = keyframes`
+export const movieListAni3 = keyframes`
 to {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
 `;
 
-const movieListAni4 = keyframes`
+export const movieListAni4 = keyframes`
 16.65% {
   -webkit-transform: translateY(16px);
   transform: translateY(16px);
@@ -64,7 +64,7 @@ const movieListAni4 = keyframes`
 }
 `;
 
-const movieListAni = keyframes`
+export const movieListAni = keyframes`
 16.65% {
   -webkit-transform: translate(8px, 8px);
   transform: translate(8px, 8px);
@@ -90,28 +90,28 @@ const movieListAni = keyframes`
   transform: translate(0, 0);
 }
 `;
-const movieListAni6 = keyframes`
+export const movieListAni6 = keyframes`
 
 `;
-const movieListAni7 = keyframes`
+export const movieListAni7 = keyframes`
 
 `;
-const movieListAni8 = keyframes`
+export const movieListAni8 = keyframes`
 
 `;
-const movieListAni9 = keyframes`
+export const movieListAni9 = keyframes`
 
 `;
-const movieListAni10 = keyframes`
+export const movieListAni10 = keyframes`
 
 `;
-const movieListAni11 = keyframes`
+export const movieListAni11 = keyframes`
 
 `;
-const movieListAni12 = keyframes`
+export const movieListAni12 = keyframes`
 
 `;
-const movieListAni13 = keyframes`
+export const movieListAni13 = keyframes`
 
 `;
 
