@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cine_Sprite_Genre/static/css/main.878389e0.css",
-    "main.js": "/Cine_Sprite_Genre/static/js/main.ee6be869.js",
+    "main.js": "/Cine_Sprite_Genre/static/js/main.f6eb8b21.js",
     "static/media/main_logo.png": "/Cine_Sprite_Genre/static/media/main_logo.7607ee0aa16c1a5f06ab.png",
     "index.html": "/Cine_Sprite_Genre/index.html",
-    "main.ee6be869.js.map": "/Cine_Sprite_Genre/static/js/main.ee6be869.js.map"
+    "main.f6eb8b21.js.map": "/Cine_Sprite_Genre/static/js/main.f6eb8b21.js.map"
   },
   "entrypoints": [
     "static/css/main.878389e0.css",
-    "static/js/main.ee6be869.js"
+    "static/js/main.f6eb8b21.js"
   ]
 }
