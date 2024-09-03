@@ -13,7 +13,6 @@ Developed by Pirate-Emperor, Cine_Sprite_Genre is a web application inspired by 
 - **Recommendations**: Suggests movies based on users' viewing history and preferences.
 
 ## Screenshots
-### Slope
 ![screenshot1](public/1.png)
 ![screenshot2](public/2.png)
 ![screenshot3](public/3.png)
