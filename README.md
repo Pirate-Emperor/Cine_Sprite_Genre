@@ -12,6 +12,16 @@ Developed by Pirate-Emperor, Cine_Sprite_Genre is a web application inspired by 
 - **Search Functionality**: Enables users to search for movies based on keywords, titles, or genres.
 - **Recommendations**: Suggests movies based on users' viewing history and preferences.
 
+## Screenshots
+### Slope
+![screenshot1](public/1.png)
+![screenshot2](public/2.png)
+![screenshot3](public/3.png)
+![screenshot4](public/4.png)
+![screenshot5](public/5.png)
+![screenshot6](public/6.png)
+![screenshot7](public/7.png)
+
 # Importance of Movie Genres
 Movie genres are important for a variety of reasons, both for filmmakers and for audiences:
 
